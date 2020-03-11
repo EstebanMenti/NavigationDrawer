@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NavigationDrawer</string>
+
+    <string name="fragment_alert">Alerta</string>
+    <string name="fragment_email">Email</string>
+    <string name="fragment_info">Information</string>
+
 </resources>
